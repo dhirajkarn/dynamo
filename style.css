@@ -1,0 +1,362 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+#header {
+	font-family: "MS Serif", "New York", serif;
+	background-color: white;
+	margin: 0px;
+	height: 70px;
+}
+#container {
+	background-color: #FFF;
+	height: 790px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#footer {
+	background-color: #000;
+	height: 70px;
+}
+#container #questions {
+	background-color: #f0f0f0;
+    opacity: 0.8;
+	height: 550px;
+	width: 650px;
+	margin-top: 20px;
+	margin-right: 150px;
+	margin-left: 150px;
+	border: 12px solid #F9C;
+	float: left;
+	border-radius:155px;
+    box-shadow: 2px 2px 200px 5px black inset;
+}
+#container #questions #answer {
+    text-align: center;
+    font-size: 30px;
+    color: #e6721b;
+    margin-top: 50px;
+    margin-left: 270px;
+    margin-bottom: 200px;
+    font-weight: bold;
+    font-family: 'Adobe Garamond Pro';
+    position:absolute;
+    text-shadow: 2px 2px 20px 5px white;
+}
+#container #questions #position {
+    text-align: center;
+    font-size: 24px;
+    color: #e6721b;
+    margin-top: 40px;
+    font-weight: bold;
+    font-family: 'Adobe Garamond Pro';
+}
+#container #questions #position a {
+    text-decoration: none;
+    padding: 5px 30px;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
+#container #questions #position a:hover {
+    background-color: yellow;
+    color: green;
+}
+
+#container #questions #quiz {
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+	margin-top: 140px;
+    
+}
+#container #questions #quiz tr th {
+	text-align: left;
+	font-size: 36px;
+        padding-bottom: 20px;
+}
+#container #questions #quiz tr td {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+#container #questions #quiz tr td a {
+    text-decoration: none;
+    width: 480px;;
+    padding: 10px;
+    padding-left: 20px;
+    display: block;
+    background-color: grey;
+    border-radius:15px;
+    color: white;
+}
+#container #questions #quiz tr td a:hover {
+    background-color: #dbbb07;
+}
+#container #questions #quiz tr td a:active {
+    background-color: black;
+}
+#container #questions #quiz tr td .label {
+	padding: 15px;
+	vertical-align: middle;
+	font-size: 30px;
+}
+#container #questions #next_button {
+	margin-left: 250px;
+	color: #CFC;
+	background-color: #960;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	margin-top: 80px;
+	border-radius:15px;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+#header {
+	font-family: "MS Serif", "New York", serif;
+	background-color: #000;
+	margin: 0px;
+	height: 70px;
+}
+#container {
+	background-color: #FFF;
+	height: 790px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#footer {
+	background-color: #000;
+	height: 70px;
+}
+#container #questions {
+	background-color: #f0f0f0;
+    opacity: 0.8;
+	height: 550px;
+	width: 650px;
+	margin-top: 20px;
+	margin-right: 150px;
+	margin-left: 150px;
+	border: 12px solid #F9C;
+	float: left;
+	border-radius:155px;
+    box-shadow: 2px 2px 200px 5px black inset;
+}
+#container #questions #answer {
+    text-align: center;
+    font-size: 30px;
+    color: #e6721b;
+    margin-top: 50px;
+    margin-left: 270px;
+    margin-bottom: 200px;
+    font-weight: bold;
+    font-family: 'Adobe Garamond Pro';
+    position:absolute;
+}
+#container #questions #position {
+    text-align: center;
+    font-size: 24px;
+    color: #e6721b;
+    margin-top: 40px;
+    font-weight: bold;
+    font-family: 'Adobe Garamond Pro';
+}
+#container #questions #position a {
+    text-decoration: none;
+    padding: 5px 30px;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
+#container #questions #position a:hover {
+    background-color: yellow;
+    color: green;
+}
+
+#container #questions #quiz {
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+	margin-top: 140px;
+    
+}
+#container #questions #quiz tr th {
+	text-align: left;
+	font-size: 36px;
+        padding-bottom: 20px;
+}
+#container #questions #quiz tr td {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+#container #questions #quiz tr td a {
+    text-decoration: none;
+    width: 480px;;
+    padding: 10px;
+    padding-left: 20px;
+    display: block;
+    background-color: grey;
+    border-radius:15px;
+    color: white;
+}
+#container #questions #quiz tr td a:hover {
+    background-color: #dbbb07;
+}
+#container #questions #quiz tr td a:active {
+    background-color: black;
+}
+#container #questions #quiz tr td .label {
+	padding: 15px;
+	vertical-align: middle;
+	font-size: 30px;
+}
+#container #questions #next_button {
+	margin-left: 250px;
+	color: #CFC;
+	background-color: #960;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	margin-top: 80px;
+	border-radius:15px;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+#header {
+	font-family: "MS Serif", "New York", serif;
+	background-color: #000;
+	margin: 0px;
+	height: 70px;
+}
+#container {
+	background-color: #FFF;
+	height: 790px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#footer {
+	background-color: #000;
+	height: 70px;
+}
+#container #questions {
+	background-color: #f0f0f0;
+    opacity: 0.8;
+	height: 550px;
+	width: 650px;
+	margin-top: 20px;
+	margin-right: 150px;
+	margin-left: 150px;
+	border: 12px solid #F9C;
+	float: left;
+	border-radius:155px;
+    box-shadow: 2px 2px 200px 5px black inset;
+}
+#container #questions #answer {
+    text-align: center;
+    font-size: 30px;
+    color: #e6721b;
+    margin-top: 50px;
+    margin-left: 270px;
+    margin-bottom: 200px;
+    font-weight: bold;
+    font-family: 'Adobe Garamond Pro';
+    position:absolute;
+}
+#container #questions #position {
+    text-align: center;
+    font-size: 24px;
+    color: #e6721b;
+    margin-top: 40px;
+    font-weight: bold;
+    font-family: 'Adobe Garamond Pro';
+}
+#container #questions #position a {
+    text-decoration: none;
+    padding: 5px 30px;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
+#container #questions #position a:hover {
+    background-color: yellow;
+    color: green;
+}
+
+#container #questions #quiz {
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+	margin-top: 140px;
+    
+}
+#container #questions #quiz tr th {
+	text-align: left;
+	font-size: 36px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid red;
+}
+#container #questions #quiz tr td {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+#container #questions #quiz tr td a {
+    text-decoration: none;
+    width: 480px;;
+    padding: 10px;
+    padding-left: 20px;
+    display: block;
+    background-color: grey;
+    border-radius:15px;
+    color: white;
+}
+#container #questions #quiz tr td a:hover {
+    background-color: #dbbb07;
+}
+#container #questions #quiz tr td a:active {
+    background-color: black;
+}
+#container #questions #quiz tr td .label {
+	padding: 15px;
+	vertical-align: middle;
+	font-size: 30px;
+}
+#container #questions #next_button {
+	margin-left: 250px;
+	color: #CFC;
+	background-color: #960;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	margin-top: 80px;
+	border-radius:15px;
+}
+
